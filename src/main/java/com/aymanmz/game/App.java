@@ -39,9 +39,9 @@ public class App {
      * Used to display the greeting when the program is displayed for the first time.
      */
     private void displayGreetings() {
-        System.out.println("-----------------------------------");
-        System.out.println("|   WELCOME TO THE DECK HANDLER!  |");
-        System.out.println("-----------------------------------");
+        System.out.println("----------------------------");
+        System.out.println("|   WELCOME TO DECK DRAW!  |");
+        System.out.println("----------------------------");
     }
 
     /**
